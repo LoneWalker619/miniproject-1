@@ -13,17 +13,17 @@ Benefits:
 
    Today’s online banking customers enjoy instant access from their computer or mobile device to a full range of services, allowing you to:
 
-   1.Tracking business transactions: 
+ 1.Tracking business transactions: 
         
-         You can use the Internet Banking portal of your bank to easily access all your past banking activities such as transfers, deposits, cleared cheques and more. No matter if the transaction was done last week, last month or last year, you can quickly go through the entire history with only a few clicks.
+   You can use the Internet Banking portal of your bank to easily access all your past banking activities such as transfers, deposits, cleared cheques and more. No matter if the    transaction was done last week, last month or last year, you can quickly go through the entire history with only a few clicks.
     
-   2. Automatic bill payments: 
-       
-         Most top-rated banks also allow you to automate bill payments and other types of regular business transactions. This helps ensure that each of your payment is always made on time. Moreover, cheque writing errors like inaccurate account details or amount errors are very common with offline transactions that can be easily prevented with online banking.
+ 2. Automatic bill payments: 
+      
+  Most top-rated banks also allow you to automate bill payments and other types of regular business transactions. This helps ensure that each of your payment is always made on     time. Moreover, cheque writing errors like inaccurate account details or amount errors are very common with offline transactions that can be easily prevented with online        banking.
 
-   3.Easy tax payment: 
+ 3.Easy tax payment: 
    
-        Thanks to online banking, you can promptly pay business taxes within minutes and get instant confirmation for the same. Some of the banks also offer exclusive tax assistance services to their corporate account holders.
+   Thanks to online banking, you can promptly pay business taxes within minutes and get instant confirmation for the same. Some of the banks also offer exclusive tax assistance services to their corporate account holders.
 
    4. Anytime anywhere benefit: 
             
@@ -41,15 +41,15 @@ Defining our system:
 
    online bank Management Application have few inbuilt features like:
 
-      Create a new account record
-      Read a exisisting account record
-      Save record to file
-      Read record from file
+   1.Create a new account record
+   2.Read a exisisting account record
+   3.Save record to file
+   4.Read record from file
 
 SWOT ANLYSIS:
                     
                         
-                  
+              
 
 
 
