@@ -1,15 +1,15 @@
-Requirements
+REQUIREMENTS
 
-Introduction:
+INTRODUCTION:
       
 1.Online banking management system, also known as internet banking or web banking, is an electronic payment system that enables customers of a bank or other financial    institution to conduct a range of financial transactions through the financial institution's website.part of the core banking system operated by a bank and is in contrast to branch banking which was the traditional way customers accessed banking services.
 2.This topic was chosen because it gives me an opportunity to implement efficient data structures and provides me flexibilty to understand multiple C programming concepts.
 
-Research:
+RESEARCH:
     
 The Online Banking Services are increasing day by day in the banking sector in India.This project aims to examine the Online Banking Services of the Banking Sectors in India.
    
-Benefits:
+BENEFITS:
 
 Today’s online banking customers enjoy instant access from their computer or mobile device to a full range of services, allowing you to:
 
@@ -63,7 +63,7 @@ Where:
 How:
    Due to online banking,We need not go to bank for transaction purpose,creating new account,to check details of exisisting account etc.So we can track our bnk records without violating  COVID-19 rules.
 
-Detail Requirements
+DETAIL REQUIREMENTS:
 
 Highlevel Requirements:
 
