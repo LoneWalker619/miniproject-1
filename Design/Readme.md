@@ -9,15 +9,16 @@ HIGH LEVEL DESIGN:
   Structural Diagram:
     https://github.com/saipoor/miniproject/blob/main/Design/hl%20structural%20design.png
  
- Behaviour Diagram:
+  Behaviour Diagram:
     https://github.com/saipoor/miniproject/blob/main/Design/HI%20behavioural%20diagram.png
     
- LOW LEVEL DESIGN:
+LOW LEVEL DESIGN:
  
-   Structure Diagram:
- 
+  Structure Diagram:
+    https://github.com/saipoor/miniproject/blob/main/Design/lld%20structural%20design.png
  
    Behaviour Diagram:
+      
     
   
 
