@@ -6,3 +6,5 @@ Architecture Design: Link to pic of architecture design.
 
 High level Design:
 
+  https://github.com/saipoor/miniproject/blob/main/Design/hl%20structural%20design.png
+
