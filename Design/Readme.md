@@ -1,10 +1,21 @@
 DESIGN:
 
-Architecture Design: Link to pic of architecture design.
+ARCHITECTURE DESIGN: Link to pic of architecture design.
                  
    https://github.com/saipoor/miniproject/blob/main/Design/Architecture%20design.png              
 
-High level Design:
-
-  https://github.com/saipoor/miniproject/blob/main/Design/hl%20structural%20design.png
+HIGH LEVEL DESIGN:
+ 
+  Structural Diagram:
+    https://github.com/saipoor/miniproject/blob/main/Design/hl%20structural%20design.png
+  Behaviour Diagram:
+    https://github.com/saipoor/miniproject/blob/main/Design/HI%20behavioural%20diagram.png
+    
+ LOW LEVEL DESIGN:
+ 
+   Structure Diagram:
+ 
+   Behaviour Diagram:
+    
+  
 
