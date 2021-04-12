@@ -26,12 +26,11 @@ Today’s online banking customers enjoy instant access from their computer or m
      One of the biggest benefits of online banking is its round-the-clock access. The 24x7 anytime and anywhere access means that you can manage your transactions easily from the comfort of your office or home. The time saved could help improve productivity by allowing you to spend it on other essential business activities.
          
 Cost and Features with Time:
-
-TIME   : 10
-
-FEATURE:
-
-COST   :
+  
+  | Time | cost | Feature |
+  |------| -----|---------|
+  | 10   |      |         |
+  
 
 Defining our system:
    Online bank management system consists of different functions.They are creating new account,to perform different transactions online like deposit and withdraw amount etc.,to check the details of exisisting account,to see the simple interest of amount.
@@ -50,26 +49,38 @@ https://github.com/saipoor/miniproject/blob/main/Requirements/swot.png
 4W's and 1'H
 
 Who:
-   1. In this pandemic situation,Many people who are effected with covid , people who are suffering with health problems and due to lockdown people cannot go to bank.so,online bank management system will be usefull to them to see their transactions etc.
+   In this pandemic situation,Many people who are effected with covid , people who are suffering with health problems and due to lockdown people cannot go to bank.so,online bank management system will be usefull to them to see their transactions etc.
  
 When:
-   1.This problem began in February 2021, when lockdown is anounced due to corona virus.
+   This problem began in February 2021,when lockdown is anounced due to corona virus.
 
 What:
-   1.To maintain social distancing in lockdown, we cannot go to bank so we use online banking facility.
+   To maintain social distancing in lockdown, we cannot go to bank so we use online banking facility.
 
 Where:
-   1.This problem is expected to surface in all states of India.
+   This problem is expected to surface in all states of India.
 
 How:
-   1.Due to online banking,We need not go to bank for transaction purpose,creating new account,to check details of exisisting account etc.So we can track our bnk records without violating  COVID-19 rules.
+   Due to online banking,We need not go to bank for transaction purpose,creating new account,to check details of exisisting account etc.So we can track our bnk records without violating  COVID-19 rules.
 
 Detail Requirements
 
 Highlevel Requirements:
 
+  |  ID   |     DESCRIPTION                     |   CATEGORY  |  STATUS      |       
+  |:-----:|:-----------------------------------:|:-----------:|:------------:|
+  |HR01   |User shall be able to Add a record   | Technical   | Implemented  |
+  | HR02  |User shall be able to do transactions| Technical   | Implemented  |
+  |HR03   | User shall be able to see details   | Technical   |Implemented   |
 
-
-
-
+Lowlevel Requirements:
+ 
+   |  ID   |     DESCRIPTION                     |   CATEGORY  |  STATUS      |       
+  |:-----:|:-----------------------------------:|:-----------:|:------------:|
+  |LR01  |User shall be able to give credentials to add record  | Technical   | Implemented  |
+  | LR02  |User shall be able to deposit and withdraw amount | Technical   | Implemented  |
+  |LR03   | User shall be able to see details of account  | Technical   |Implemented   |
+  |LR04 | User shall be able to see the simple interest of amount in account|Technical|Implemented|
+  |LR05| User shall be able to exit the online banking|Technical|Implemented|
+               
  
