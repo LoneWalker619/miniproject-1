@@ -64,6 +64,10 @@ Where:
 How:
    1.Due to online banking,We need not go to bank for transaction purpose,creating new account,to check details of exisisting account etc.So we can track our bnk records without violating  COVID-19 rules.
 
+Detail Requirements
+
+Highlevel Requirements:
+
 
 
 
