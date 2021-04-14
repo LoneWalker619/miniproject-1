@@ -25,14 +25,14 @@ void see(void)
                         time=1.0;
                         rate=9;
                         intrst=interest(time,ad.amt,rate);
-                        printf("\n\nYou will get $%.2f as interest on %d/%d/%d",intrst,ad.deposit.m,ad.deposit.d,ad.deposit.y+1);
+                        printf("\n\nYou will get %.2f as interest on %d/%d/%d",intrst,ad.deposit.m,ad.deposit.d,ad.deposit.y+1);
                     }
                 else if(strcmp(ad.account_type,"fixed2")==0)
                     {
                         time=2.0;
                         rate=11;
                         intrst=interest(time,ad.amt,rate);
-                        printf("\n\nYou will get $.%.2f as interest on %d/%d/%d",intrst,ad.deposit.m,ad.deposit.d,ad.deposit.y+2);
+                        printf("\n\nYou will get %.2f as interest on %d/%d/%d",intrst,ad.deposit.m,ad.deposit.d,ad.deposit.y+2);
 
                     }
                 else if(strcmp(ad.account_type,"fixed3")==0)
@@ -40,7 +40,7 @@ void see(void)
                         time=3.0;
                         rate=13;
                         intrst=interest(time,ad.amt,rate);
-                        printf("\n\nYou will get $.%.2f as interest on %d/%d/%d",intrst,ad.deposit.m,ad.deposit.d,ad.deposit.y+3);
+                        printf("\n\nYou will get %.2f as interest on %d/%d/%d",intrst,ad.deposit.m,ad.deposit.d,ad.deposit.y+3);
 
                     }
                  else if(strcmp(ad.account_type,"saving")==0)
@@ -48,7 +48,7 @@ void see(void)
                         time=(1.0/12.0);
                         rate=8;
                         intrst=interest(time,ad.amt,rate);
-                        printf("\n\nYou will get $.%.2f as interest on %d of every month",intrst,ad.deposit.d);
+                        printf("\n\nYou will get %.2f as interest on %d of every month",intrst,ad.deposit.d);
 
                      }
                  else if(strcmp(ad.account_type,"current")==0)
