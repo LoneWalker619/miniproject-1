@@ -8,6 +8,7 @@ src/interest.c \
 src/menu.c \
 src/delay.c \
 
+COV_SRC = bank_test.c
 
 TEST_SRC = test/bank_test.c \
 unity/unity.c 
@@ -25,20 +26,29 @@ else
 	  EXEC = out
    endif
 endif
+.PHONY: run clean test doc all
 
 all:
 	gcc -I $(INC_H) $(SRC) bankmain.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
 	
 run:
 	$(call FixPath,$(PROJ_NAME).$(EXEC))
+	
 test:
 	gcc -I $(INC_H) -I $(INC_T) $(TEST_SRC) $(SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
 	./$(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
 
- coverage:
- 	gcc -fprofile-arcs -ftest-coverage -I $(INC_H) -I $(INC_T) $(TEST_SRC) $(SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
- 	$(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
- 	gcov $(SRC)
+coverage:
+	cp test/bank_test.c .
+	gcc -fprofile-arcs -ftest-coverage -I $(INC_H) -I $(INC_T) unity/unity.c bank_test.c $(SRC) -o $(call FixPath, $(TEST_PROJ_NAME).$(EXEC))
+	$(call FixPath, ./$(TEST_PROJ_NAME).$(EXEC))
+	gcov -a $(COV_SRC)
+	$(RM) *.$(EXEC)
+	$(RM) *.gcda
+	$(RM) *.gcno
+	$(RM) *.c.gcov
+	$(RM) *.DAT
+	$(RM) bank_test.c
 
 cppcheck:
 	cppcheck --enable=all $(SRC) bankmain.c
