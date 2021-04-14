@@ -25,7 +25,6 @@ Cost and Features with Time:
   |------| -----|---------|
   | 10   |      |         |
   
-
 Defining our system:
    Online bank management system consists of different functions.They are creating new account,to perform different transactions online like deposit and withdraw amount etc.,to check the details of exisisting account,to see the simple interest of amount.
 
@@ -76,5 +75,3 @@ Lowlevel Requirements:
   |LR03   | User shall be able to see details of account  | Technical   |Implemented   |
   |LR04 | User shall be able to see the simple interest of amount in account|Technical|Implemented|
   |LR05| User shall be able to exit the online banking|Technical|Implemented|
-               
- 
