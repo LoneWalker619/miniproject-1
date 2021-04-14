@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<windows.h>
+#include<string.h>
 #include"bank.h"
 int i,j,pin;
 int mainexit;
@@ -16,7 +16,7 @@ int mainexit;
 
             if(ad.account_no==transaction.account_no)
             {   test=1;
-                if(strcmpi(ad.account_type,"fixed1")==0||strcmpi(ad.account_type,"fixed2")==0||strcmpi(ad.account_type,"fixed3")==0)
+                if(strcmp(ad.account_type,"fixed1")==0||strcmp(ad.account_type,"fixed2")==0||strcmp(ad.account_type,"fixed3")==0)
                 {
                     printf("\a\a\a\n\nYOU CANNOT DEPOSIT OR WITHDRAW CASH IN FIXED ACCOUNTS!!!!!");
                     delay(1000000000);
