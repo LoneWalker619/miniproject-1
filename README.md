@@ -11,6 +11,6 @@ FOLDER STRUCTURE:
   |4.Testplan           |Documents with test plans and procedures        |
   
 Contributors List and Summary:
-|SF Id.|Name|Features|Issuess Raised|Issues Resolved|No TestCases|Test Case|
+|SF Id.|Name|Features|Issuess Raised|Issues Resolved|No. of TestCases|Test Case|
 |:-----|:---|:-------|:-------------|:--------------|:-----------|:--------|
 |261623|poornima| A,B|	0|0|6|pass|
