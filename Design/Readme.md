@@ -18,6 +18,3 @@ LOW LEVEL DESIGN:Links to pictures of Lowlevel structural and behavioral diagram
  
   Behavioral Diagram:
     https://github.com/saipoor/miniproject/blob/main/Design/lld%20behaviour%20diagram.png
-    
-  
-
