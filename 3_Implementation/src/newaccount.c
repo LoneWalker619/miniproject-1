@@ -65,4 +65,3 @@ void new_acc()
             goto add_invalid;
         }
 }
-
