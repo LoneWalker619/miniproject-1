@@ -28,7 +28,7 @@ void new_acc()
     }
     ad.account_no=to_check.account_no;
     printf("\nEnter the name:");
-    scanf("%s",ad.name);
+    scanf("%s",&ad.name);
     printf("\nEnter the date of birth(mm/dd/yyyy):");
     scanf("%d/%d/%d",&ad.dob.m,&ad.dob.d,&ad.dob.y);
     printf("\nEnter the age:");
