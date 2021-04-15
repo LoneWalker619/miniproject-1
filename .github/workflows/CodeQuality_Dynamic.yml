@@ -18,5 +18,6 @@ jobs:
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
       run: make -C 3_Implementation/ test
-    - name: valgrind
-      run: valgrind ./3_Implementation/buid/bank_test.out
+    - name: Valgrind
+      run: make -C 3_Implementation/ valgrind
+ 
