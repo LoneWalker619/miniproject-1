@@ -1,4 +1,14 @@
 TEST PLAN:
-|Test ID| Description |	Exp I/P|	Exp O/P	|Actual Out|
+
+HIGH LEVEL REQUIREMENTS:
+
+|Test ID| Description  |Exp I/P|Exp O/P|Actual Out|
 |-------|--------------|-----------|------------|----------|
-| T_01  | During interest function checked whether it is returning correct value.|r,t,amt variables|30|PASS|
+| H_01  | To check interest function.|r,t,amt variables|30|PASS|
+
+LOW LEVEL REQUIREMENTS:
+
+|Test ID| Description  |Exp I/P|Exp O/P|Actual Out|
+|-------|--------------|-----------|------------|----------|
+| L_01  | To check interest function.|r,t,amt variables|30|PASS|
+
