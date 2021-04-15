@@ -32,6 +32,6 @@ Challenges Faced:
 |2.|After program shutdown, not able to recover recorded data.|To solve problem file system is implemented|
 
 Learning Resources:
- 1.markdownBasics
- 2.git inspector
- 3.github workflow
+ 1. markdownBasics
+ 2. git inspector
+ 3. github workflow
