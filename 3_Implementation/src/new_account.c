@@ -4,6 +4,7 @@
 #include"bank.h"
 int i,j,pin;
 int mainexit;
+/*Function to create a new account*/
 void new_acc()
 {  
     int choice;

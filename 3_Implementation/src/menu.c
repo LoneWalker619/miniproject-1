@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"bank.h"
+/*Function to select options to complete the aim*/
 void menu(void)
 {   int choice;
     system("color b");

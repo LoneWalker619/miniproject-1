@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include"bank.h"
+/*Function to check details of exisisting account*/
 void see(void)
 {
     FILE *ptr;
