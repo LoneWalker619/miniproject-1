@@ -15,6 +15,7 @@ Contributors List and Summary:
 |:-----|:---|:-------|:-------------|:--------------|:-----------|:--------|
 |261623|poornima| A,B|	0|0|6|pass|
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1169d872259746ac81782fd3656afd98)](https://app.codacy.com/gh/saipoor/miniproject?utm_source=github.com&utm_medium=referral&utm_content=saipoor/miniproject&utm_campaign=Badge_Grade_Settings)
 [![Contribution Check - Git Inspector](https://github.com/saipoor/miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/gitinspector.yml)
 [![C/C++ CI - Build Status](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/saipoor/miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/cppcheck.yml)
