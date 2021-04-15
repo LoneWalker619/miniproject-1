@@ -18,3 +18,4 @@ Contributors List and Summary:
 [![Contribution Check - Git Inspector](https://github.com/saipoor/miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/gitinspector.yml)
 [![C/C++ CI - Build Status](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/saipoor/miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/cppcheck.yml)
+[![Unit Testing - Unity](https://github.com/saipoor/miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/unity.yml)
