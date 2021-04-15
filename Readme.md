@@ -19,3 +19,4 @@ Contributors List and Summary:
 [![C/C++ CI - Build Status](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/saipoor/miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/cppcheck.yml)
 [![Unit Testing - Unity](https://github.com/saipoor/miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/unity.yml)
+[![CI-Coverage](https://github.com/saipoor/miniproject/actions/workflows/gcov.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/gcov.yml)
