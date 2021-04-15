@@ -58,7 +58,7 @@ void new_acc()
     if (mainexit==1)
         menu();
     else if(mainexit==0)
-            close();
+            printf("\t\t\t\tThankyou for using online banking management sysytem");
     else
         {
             printf("\nInvalid!\a");
