@@ -79,7 +79,7 @@ int mainexit;
     else if (mainexit==1)
         menu();
     else if (mainexit==2)
-        close();
+        printf("\t\t\t\tThankyou for using online banking management sysytem");
     else
     {
         printf("\nInvalid!");
@@ -95,7 +95,7 @@ int mainexit;
         if (mainexit==1)
             menu();
         else
-            close();
+            printf("\t\t\t\tThankyou for using online banking management sysytem");
    }
 
 }
