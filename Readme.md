@@ -16,3 +16,4 @@ Contributors List and Summary:
 |261623|poornima| A,B|	0|0|6|pass|
 
 [![Contribution Check - Git Inspector](https://github.com/saipoor/miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/gitinspector.yml)
+[![C/C++ CI - Build Status](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/saipoor/miniproject/actions/workflows/c-cpp.yml)
