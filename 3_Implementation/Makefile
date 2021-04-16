@@ -52,6 +52,8 @@ debug:
 valgrind:
 	valgrind ./$(TEST_PROJ_NAME).$(EXEC)
 
+doc:
+	make -C ./documentation
 
 clean:
 	del *.DAT
